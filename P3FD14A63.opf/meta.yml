@@ -1,0 +1,16 @@
+id: P3FD14A63
+initial_creation_type: input
+source_metadata:
+  title: Eight Vidyādharas Series
+  language: bo
+  description: Texts related to the eight vidyādharas (rig ‘dzin brgyad) of India
+  volume:
+    b91a2b0c42db442b847c905bcea2d604:
+      title: Descent of Blessings of the Eight Vidyādharas
+      parent: Descent of Blessings
+    6a38d9cf45534939a83d2338f323a720:
+      title: 'A Constant Stream of Blessings: A Prayer to the Eight Supreme Vidyādharas
+        of India'
+      parent: Lineage Prayers
+created_at: '2022-03-01T03:38:42.410121'
+last_modified_at: '2022-03-01T03:38:42.410124'
